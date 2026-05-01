@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Parth+Mangal+👋;SDE+II+%40+Blinkit+⚡🛒;Backend+%7C+Distributed+Systems+%7C+AdTech;Building+at+the+speed+of+10+minutes+🚀" alt="Typing SVG" />
+# Parth Mangal
 
-<br/>
+### SDE II @ Blinkit ⚡ · Backend · Distributed Systems · AdTech
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthmangal)
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/parthmangal)
 [![Topmate](https://img.shields.io/badge/Topmate-FF6B6B?style=for-the-badge&logoColor=white)](https://topmate.io/parthmangal)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mangal.arpit.19@gmail.com)
 
@@ -50,7 +49,7 @@ func main() {
 
 ## 🏢 Experience
 
-### ⚡ Blinkit *(Zomato Group)*  — SDE II · Backend & AdTech
+### ⚡ Blinkit *(Zomato Group)* — SDE II · Backend & AdTech
 `2023 – Present` | Gurugram, India
 
 - 🎯 **MediaMax** — Built Blinkit's self-serve portal for off-platform retail media ads on **Meta & Google**, enabling brands to launch catalogue campaigns using Blinkit's first-party commerce data
@@ -156,7 +155,6 @@ I'm open to interesting conversations, collabs, or helping students with placeme
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthmangal)
 [![Topmate](https://img.shields.io/badge/Book_a_1:1_on_Topmate-FF6B6B?style=for-the-badge&logoColor=white)](https://topmate.io/parthmangal)
-[![Linktree](https://img.shields.io/badge/All_my_links-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/parthmangal)
 
 </div>
 
