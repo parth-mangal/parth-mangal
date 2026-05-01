@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthmangal)
 [![Topmate](https://img.shields.io/badge/Topmate-FF6B6B?style=for-the-badge&logoColor=white)](https://topmate.io/parthmangal)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mangal.arpit.19@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parth-mangal)
 
 <img src="https://komarev.com/ghpvc/?username=parth-mangal&label=Profile+Views&color=yellow&style=flat-square" alt="profile views" />
 
@@ -77,26 +78,18 @@ func main() {
 
 <div align="center">
 
-**Languages**
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend & Infra**
-
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Tools & Practices**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
@@ -114,27 +107,9 @@ func main() {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=parth-mangal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-mangal&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=parth-mangal&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education
 
-**Indian Institute of Information Technology, Kota**
-B.Tech · Computer Science & Engineering
+**Indian Institute of Information Technology, Kota** · B.Tech CSE
 
 ---
 
@@ -149,12 +124,12 @@ B.Tech · Computer Science & Engineering
 
 ## 🤝 Let's Connect
 
-I'm open to interesting conversations, collabs, or helping students with placement prep & DSA!
+Open to collaborations, interesting backend roles, or helping students with DSA & placement prep!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthmangal)
-[![Topmate](https://img.shields.io/badge/Book_a_1:1_on_Topmate-FF6B6B?style=for-the-badge&logoColor=white)](https://topmate.io/parthmangal)
+[![Topmate](https://img.shields.io/badge/Book_a_1:1-FF6B6B?style=for-the-badge&logoColor=white)](https://topmate.io/parthmangal)
 
 </div>
 
